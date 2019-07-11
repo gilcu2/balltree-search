@@ -1,8 +1,16 @@
 [package]
 name = "balltree-search"
 version = "0.1.0"
-authors = ["reynaldo.gil <reynaldo.gil@hooyu.com>"]
+authors = ["Reynaldo Gil <gilcu2@gmail.com>"]
 edition = "2018"
+description = "Ball Tree search algorithm for range search in multi-dimensional metric spaces following http://ftp.icsi.berkeley.edu/ftp/pub/techreports/1989/tr-89-063.pdf cheaper online algorithm"
+homepage = "https://crates.rs/crates/balltree-search"
+repository = "https://github.com/gilcu2/balltree-search.git"
+documentation = "https://docs.rs/balltree-search/"
+keywords = ["metric", "search"]
+license = "BSD-2-Clause"
+readme = "README.md"
+categories = ["algorithms", "data-structures", "science"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
